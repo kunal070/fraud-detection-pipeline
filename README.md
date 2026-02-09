@@ -14,11 +14,11 @@
 
 This project implements a **production-grade real-time fraud detection pipeline** that processes credit card transactions from ingestion to visualization. Built using modern data engineering practices, it demonstrates:
 
-- ✅ Real-time streaming with sub-second latency
-- ✅ Cloud-native architecture on Azure
-- ✅ Medallion (Bronze/Silver/Gold) data architecture
-- ✅ Interactive analytics dashboards with Power BI
-- ✅ Scalable processing of 284K+ transactions
+- Real-time streaming with sub-second latency
+- Cloud-native architecture on Azure
+- Medallion (Bronze/Silver/Gold) data architecture
+- Interactive analytics dashboards with Power BI
+- Scalable processing of 284K+ transactions
 
 ---
 
@@ -571,9 +571,5 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-⭐ **Star This Repository** — If you found this project helpful, please consider giving it a ⭐ on GitHub!
-
----
-
-*Built with ❤️ by Kunal Panchal*
-*Last Updated: January 2025*
+- *Built by Kunal Panchal*
+- *Last Updated: January 2025*
