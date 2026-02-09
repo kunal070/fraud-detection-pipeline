@@ -1,0 +1,12 @@
+venv/
+data/*.csv
+*.pyc
+__pycache__/
+.env
+config/*.json
+
+# Power BI files (large binaries)
+*.pbix
+
+# Local IDE settings
+.claude/

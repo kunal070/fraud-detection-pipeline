@@ -1,0 +1,5 @@
+pandas==2.1.0
+python-dotenv==1.0.0
+matplotlib==3.7.0
+jupyter==1.0.0
+azure-eventhub==5.11.4
